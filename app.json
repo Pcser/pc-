@@ -1,8 +1,8 @@
 {
-  "name": "Abu MD",
-  "description": "Abu MD - Simple WhatsApp Multi Device Bot",
+  "name": "pc",
+  "description": "pc - Simple WhatsApp Multi Device Bot",
   "keywords": ["whatsapp-bot", "multi-device"],
-  "repository": "https://github.com/Afx-Abu/Abu-MD",
+  "repository": "https://github.com/Pcser/pc",
   "keywords": ["bot","whatsapp","whatsapp-bot"],
   "env": {
    "SESSION_ID": {
